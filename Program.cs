@@ -28,11 +28,11 @@
     {
         public void ShapeName()
         {
-            Console.WriteLine("It's Rectangle");
+            Console.WriteLine("It's Rectangle 2");
         }
         public override string ToString()
         {
-            return "Type Rectangle";
+            return "Type Rectangle 2";
         }
     }
 
