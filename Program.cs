@@ -7,7 +7,7 @@
             var Fabric1 = new RectangleCreator();
             var NewRectangle = Fabric1.Create();
             Fabric1.Info();
-            Console.WriteLine(NewRectangle);
+            Console.WriteLine(NewRectangle + "");
             var Fabric2 = new CircleCreator();
             var NewCircle = Fabric2.Create();
             Fabric2.Info();
